@@ -1,4 +1,4 @@
-﻿SpeedMetersPerSecond,Longitude,HeadingDegrees,Username,Latitude,ReportTimeDate,Category
+﻿speed,Longitude,course,created_user,Latitude,location_timestamp,Category
 4,-87.98672,140,LocalGovDeployRyanN,41.98295,2/4/21 18:01,testvehicle1
 9,-87.98445,86,LocalGovDeployRyanN,41.98297,2/4/21 18:01,testvehicle1
 12,-88.10977,270,velocity_deploy,41.80878,2/4/21 18:01,testvehicle2
